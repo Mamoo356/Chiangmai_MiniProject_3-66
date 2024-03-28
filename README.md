@@ -1,1 +1,1 @@
-MiniProject Chianmai
+MiniProject Chiangmai
