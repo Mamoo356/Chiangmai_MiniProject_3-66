@@ -194,11 +194,20 @@ hr { border-top: 1px solid white; }
 .tm-service-text { max-width: 365px; }
 .tm-service-img { margin-right: 25px; }
 .tm-service-img-r { margin-left: 25px; }
+
+/* maekam */
 .services {
     background-color: white;
     border-radius: 10px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     padding: 20px;
+  }
+  .project-wrap .img {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 300px;
+    display: block;
   }
 
 /* Contact */
