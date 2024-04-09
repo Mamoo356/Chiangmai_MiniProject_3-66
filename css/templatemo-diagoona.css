@@ -218,7 +218,10 @@ hr { border-top: 1px solid white; }
     border-radius: 10px;
     box-sizing: border-box;
 }
-
+.right-align {
+    display: flex;
+    justify-content: flex-end;
+  }
 
 /* Contact */
 .form-control,
